@@ -27,6 +27,9 @@ class MyUserPage : ComponentActivity() {
         val myArrayContent = arrayOf(
             MyProduct(productName = "Apple", productPrice = 123),
             MyProduct(productName = "Sam Sumg", productPrice = 23),
+            MyProduct(productName = "Sam Sumg", productPrice = 23),
+            MyProduct(productName = "Sam Sumg", productPrice = 23),
+            MyProduct(productName = "Sam Sumg", productPrice = 23),
             MyProduct(productName = "Huawei", productPrice = 45)
         )
 
