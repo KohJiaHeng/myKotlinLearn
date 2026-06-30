@@ -26,10 +26,10 @@ class MyUserPage : ComponentActivity() {
         val myRecyclePOV = findViewById<RecyclerView>(R.id.myRecycleList)
         val myArrayContent = arrayOf(
             MyProduct(productName = "Apple", productPrice = 123),
-            MyProduct(productName = "Sam Sumg", productPrice = 23),
-            MyProduct(productName = "Sam Sumg", productPrice = 23),
-            MyProduct(productName = "Sam Sumg", productPrice = 23),
-            MyProduct(productName = "Sam Sumg", productPrice = 23),
+            MyProduct(productName = "Samsung Galaxy", productPrice = 899),
+            MyProduct(productName = "Google Pixel", productPrice = 699),
+            MyProduct(productName = "Sam Sumg", productPrice = 232232),
+            MyProduct(productName = "Xiaomi", productPrice = 499),
             MyProduct(productName = "Huawei", productPrice = 45)
         )
 
